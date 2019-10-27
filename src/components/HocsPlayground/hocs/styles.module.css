@@ -1,0 +1,10 @@
+.wrapper {
+    display: inline-block;
+    position: relative;
+}
+
+.counter {
+    position: absolute;
+    left: 42%;
+    top: -30px;
+}
